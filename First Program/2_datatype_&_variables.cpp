@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int a = 123;
+    /*int a = 123;
     cout << a << endl;
     char b = 'i';
     cout << b << endl;
@@ -12,4 +12,14 @@ int main()
     cout << f << endl;
     double d = 1.23;
     cout << d << endl;
+    int size = sizeof(a);
+    cout<< "Size of a is:" << size << endl;
+
+    int a = 'a';
+    cout<<a<<endl;
+    char ch = 98;
+    cout << ch << endl;*/
+
+    
+
 }
